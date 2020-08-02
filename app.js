@@ -11,7 +11,7 @@ function documentation(){
 
         (3) For deleting of note: node app.js delete <your note title>
 
-        (4) For getting of all notes: node app.js get list
+        (4) For getting of all notes: node app.js get getnotes
     `
     console.log(log);
 }
