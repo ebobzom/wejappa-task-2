@@ -9,4 +9,4 @@
 
         (4) For getting of all notes make a GET request to http://localhost:3000/notes
 
-        5) For getting of one note make a GET request to http://localhost:3000/notes/?notetitle=<YOUR NOTE TITL
+        5) For getting of one note make a GET request to http://localhost:3000/notes/?notetitle=<YOUR NOTE TITLE>
